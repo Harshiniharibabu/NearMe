@@ -251,20 +251,20 @@ Execute the programs and publish them.
 ````
 
 ## OUTPUT
-![alt text](<Screenshot 2026-05-22 234527-1.png>)
+![image](<Screenshot 2026-05-22 234527-1.png>)
 
-![alt text](<Screenshot 2026-05-22 234549.png>)
+![image1](<Screenshot 2026-05-22 234549.png>)
 
-![alt text](<Screenshot 2026-05-22 234612.png>)
-
-
-![alt text](<Screenshot 2026-05-22 234635.png>)
+![image2](<Screenshot 2026-05-22 234612.png>)
 
 
-![alt text](<Screenshot 2026-05-22 234700.png>)
+![image3](<Screenshot 2026-05-22 234635.png>)
 
 
-![alt text](<Screenshot 2026-05-22 234719.png>)
+![image4](<Screenshot 2026-05-22 234700.png>)
+
+
+![image5](<Screenshot 2026-05-22 234719.png>)
 
 
 
