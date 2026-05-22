@@ -251,21 +251,19 @@ Execute the programs and publish them.
 ````
 
 ## OUTPUT
-![image](<Screenshot 2026-05-22 234527-1.png>)
-
-![image1](<Screenshot 2026-05-22 234549.png>)
-
-![image2](<Screenshot 2026-05-22 234612.png>)
 
 
-![image3](<Screenshot 2026-05-22 234635.png>)
+![alt text](image.png)
 
+![alt text](image1.png)
 
-![image4](<Screenshot 2026-05-22 234700.png>)
+![alt text](image2.png)
 
+![alt text](image3.png)
 
-![image5](<Screenshot 2026-05-22 234719.png>)
+![alt text](image4.png)
 
+![alt text](image5.png)
 
 
 
